@@ -1,6 +1,16 @@
 # Real-Time Stock Sentiment Analyzer
 This project fetches real-time stock prices and news headlines, performs sentiment analysis, and visualizes the results.
 
+## Screenshots
+
+### Stock Price Comparison
+
+![Stock price comparison dashboard](display/1.png)
+
+### News Sentiment Comparison
+
+![News sentiment comparison dashboard](display/2.png)
+
 
 ## Features
 - Fetch real-time stock prices using yfinance
