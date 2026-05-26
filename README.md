@@ -30,18 +30,8 @@ NEWS_API_KEY=your_news_api_key_here
 3. Run app: `streamlit run src/app.py`
 4. Select between **Real-Time** or **Sample Data** mode.
 5. Enter stock ticker in the app.
-6. Or run with Docker:
-```
-docker build -t stock-sentiment-app .
-docker run -p 8501:8501 --env-file .env stock-sentiment-app
+
 ```
 
 
-## Project Structure
-- `src/` - Source code
-- `data/` - Optional historical CSVs
-- `notebooks/` - Exploratory analysis
-- `Dockerfile` - Container setup
-- `.github/workflows/` - CI pipeline
-- `requirements.txt` - Dependencies
-- `README.md` - Project overview
+
