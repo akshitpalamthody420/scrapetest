@@ -30,7 +30,6 @@ NEWS_API_KEY=your_news_api_key_here
 3. Run app: `streamlit run src/app.py`
 4. Select between **Real-Time** or **Sample Data** mode.
 5. Enter stock ticker in the app.
-
 ```
 
 
